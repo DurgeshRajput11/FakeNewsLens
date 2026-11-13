@@ -136,7 +136,6 @@ Actual evaluation results will be added after model training.
 
 ## Team Members
 
-**Group 1 – B.Tech Information Technology, IIIT Una**
 
 - Ayush Rai
 - Deep Shekhar Singh
